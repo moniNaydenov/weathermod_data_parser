@@ -99,3 +99,35 @@ TARGET_LON = 25.500355       # Target longitude
 ## Data Source
 
 The radar data is provided by the official Hail Suppression Agency of Bulgaria and can be accessed at http://83.228.89.166/.
+
+
+## Sample output (with real data)
+
+```csv
+TARGET_LAT = 43.492543
+TARGET_LON = 25.500355
+
+Time (UTC): 2024-05-12 18:36:39          Value: 41.00 dBZ        File: Composite.20240512183639.CAP.7370.h5
+Time (UTC): 2024-05-12 18:40:30          Value: 41.00 dBZ        File: Composite.20240512184030.CAP.7371.h5
+Time (UTC): 2024-05-12 18:41:18          Value: 46.00 dBZ        File: Composite.20240512184118.CAP.7372.h5
+Time (UTC): 2024-05-12 18:45:18          Value: 49.00 dBZ        File: Composite.20240512184518.CAP.7373.h5
+Time (UTC): 2024-05-12 18:49:21          Value: 52.00 dBZ        File: Composite.20240512184921.CAP.7374.h5
+Time (UTC): 2024-05-12 18:53:20          Value: 50.50 dBZ        File: Composite.20240512185320.CAP.7375.h5
+Time (UTC): 2024-05-12 18:55:51          Value: 51.00 dBZ        File: Composite.20240512185551.CAP.7376.h5
+Time (UTC): 2024-05-12 18:59:40          Value: 53.50 dBZ        File: Composite.20240512185940.CAP.7377.h5
+Time (UTC): 2024-05-12 19:01:20          Value: 53.50 dBZ        File: Composite.2024051219120.CAP.7378.h5
+Time (UTC): 2024-05-12 19:05:20          Value: 50.50 dBZ        File: Composite.2024051219520.CAP.7379.h5
+Time (UTC): 2024-05-12 19:09:20          Value: 53.50 dBZ        File: Composite.2024051219920.CAP.7380.h5
+Time (UTC): 2024-05-12 19:13:19          Value: 54.00 dBZ        File: Composite.20240512191319.CAP.7381.h5
+Time (UTC): 2024-05-12 19:17:18          Value: 53.50 dBZ        File: Composite.20240512191718.CAP.7382.h5
+Time (UTC): 2024-05-12 19:21:18          Value: 52.00 dBZ        File: Composite.20240512192118.CAP.7383.h5
+Time (UTC): 2024-05-12 19:25:17          Value: 55.00 dBZ        File: Composite.20240512192517.CAP.7384.h5
+Time (UTC): 2024-05-12 19:29:19          Value: 55.00 dBZ        File: Composite.20240512192919.CAP.7385.h5
+Time (UTC): 2024-05-12 19:33:20          Value: 47.50 dBZ        File: Composite.20240512193320.CAP.7386.h5
+Time (UTC): 2024-05-12 19:37:55          Value: 42.50 dBZ        File: Composite.20240512193755.CAP.7388.h5
+Time (UTC): 2024-05-12 19:37:55          Value: 44.50 dBZ        File: Composite.20240512193755.CAP.7387.h5
+Time (UTC): 2024-05-12 19:41:25          Value: 42.50 dBZ        File: Composite.20240512194125.CAP.7389.h5
+Time (UTC): 2024-05-12 19:45:26          Value: 41.00 dBZ        File: Composite.20240512194526.CAP.7390.h5
+Time (UTC): 2024-05-22 05:53:57          Value: 40.00 dBZ        File: Composite.20240522055357.CAP.1114.h5
+Time (UTC): 2024-05-22 05:57:58          Value: 40.50 dBZ        File: Composite.20240522055758.CAP.1115.h5
+```
