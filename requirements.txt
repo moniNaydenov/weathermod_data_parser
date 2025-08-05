@@ -1,0 +1,6 @@
+h5py
+numpy
+pyproj
+requests
+beautifulsoup4
+zoneinfo
